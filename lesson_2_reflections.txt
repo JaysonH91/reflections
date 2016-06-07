@@ -24,8 +24,13 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	
+	The result of merging two branches together is the merged code and therefor the merged features of the mater and coins branches.
+	We represent it int he diagram in this manner because every commit in git has a parent node. This commit parents need to be traced to the common nodes. The diagram makes it very human readable.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	
+	The pros of auto merging is that it saves you time. However, the con is that when there is a conflict, you have to manually check the conflicts with will take extra effort.
 
 
