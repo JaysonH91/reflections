@@ -10,11 +10,17 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	
+	You can preview your files you want to change and ask yourself, is this one logical change for this commit? if not, then remove some files fromthe the staging area and commit with one logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	Branchecs will be helpful when you have multiple logical changes that you are working on at the same time and you don have to worry about one desin interupting the main or other features you are experimenting on.
 
 How do the diagrams help you visualize the branch structure?
+	
+	Diagrams help you visualize your code a whol lot better than just running thee linear git log. This makes it a log more human readable too.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
