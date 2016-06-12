@@ -24,9 +24,22 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Man, taht would be insainly hard! Would probaly email each other back and forth and
+    manually merge changes in hopes that they would work.
+    I would imagine it would be a nightmare.
+    Hence, this is probably why Git & Github was born!
+
+    It cannot be easier without using Git/Github.
+
+    The first answer to this question is what would be harder!
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You will want to make checnges in a seperate branch so that you can fully experiment and not break master.
+    
+    Working on the remote the benefits are easier in merging with others code, however it would get more
+    complex to see what YOUR changes actually are compared to others. Keeping it in your seperate branch is
+    more complicated but keeps from introducing bugs more as each branch has a specific focus and not a bunch
+    of focusses. At the end of the day, branching is a way to keep the code more stable than just working in
+    the master branch all the time.
